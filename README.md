@@ -1,5 +1,23 @@
-# 🚀 Internet Optimization Script v5.0  (ODH model: Windows-Network-CPR)
-**Engineered by Oblivion Development & Hosting**  
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-windows-network-repair/main/.github/banner.png" alt="Oblivion Windows Network Repair — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion Windows Network Repair</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Revive a broken Windows network connection: full TCP/IP, DNS and adapter reset when nothing else works. By Oblivion.</b></p>
+
+<p align="center">`windows` · `networking` · `tcp-ip` · `dns` · `network-repair` · `winsock-reset`</p>
+
+---
+
+**Engineered by Oblivion**  
 
 🪟 Using Windows? First of all, **I'm sorry**. Second of all, you're probably here because your connection is slower than a **dial-up modem from 2003** caught in a hurricane.  <br><br>
 **Internet Optimization Script v5.0** is here to save your miserable excuse of a network stack — not because you deserve it, but because **we got bored** and decided to do what Microsoft **still can't**.
@@ -57,7 +75,7 @@ Flushing DNS... hope you didn’t enjoy waiting 30 seconds to load Google.
 Resetting TCP/IP... surprise! It was broken. Deeply.
 Deleting trash routes... how did these even get here?
 All done. Network: optimized. Windows: ashamed.
-Script by Oblivion Development & Hosting — doing Microsoft’s job since always.
+Script by Oblivion — doing Microsoft’s job since always.
 ```
 
 ***
@@ -96,7 +114,7 @@ We can fix that too.
 
 ***
 
-**Oblivion Development & Hosting**  
+**Oblivion**  
 🔥 Fixing Windows one insult and script at a time — because someone f***ing has to.
 
 --- 
@@ -105,5 +123,21 @@ Let me know if you want to include a *payload* that changes the system sound to 
 
 ---
 
-Developed with much anguish by [@ivanbg_2004](https://github.com/ivanbg2004) and forced to be remastered by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) 6 years later.
-Oblivion Development & Hosting is a Linux-first company, but we reluctantly support other platforms.
+Developed with much anguish by [@ivanbg_2004](https://github.com/ivanbg2004) and forced to be remastered by [Oblivion](https://odh.ivan-vcard.xyz) 6 years later.
+Oblivion is a Linux-first company, but we reluctantly support other platforms.
+
+
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: windows, networking, tcp-ip, dns, network-repair, winsock-reset, batch-script, troubleshooting, sysadmin.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
